@@ -2,11 +2,17 @@
 
 <b>
 1. pkg i git
+<br>
 2. pkg upgrade
+<br>
 3. pkg i nodejs-lts
+<br>
 4. git clone https://github.com/codetilki/TermuxAoiJsBot
+<br>
 5. cd TermuxAoiJsBot
+<br>
 6. nano index.js
+<br>
 </b>
 
 ## Ayarlar
