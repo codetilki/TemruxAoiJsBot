@@ -29,4 +29,4 @@ ENTER
 8. npx node index.js
 </b>
 
-ve bu kadar eğer sıkıntı olursa benle iltibata geçin <b>Tilki#0269</b>
+ve bu kadar eğer sıkıntı olursa benle iltibata geçin <b>Tilki#0099</b>
