@@ -1,11 +1,11 @@
 # TERMUX AOİ.JS BOT!
 
 <b>
-1. pkg i git
+1. pkg i git (arkadaşlar soru yeri gelebilir hepsine "Y" yazın)
 <br>
 2. pkg upgrade (arkadaşlar soru yeri gelebilir hepsine "Y" yazın)
 <br>
-3. pkg i nodejs-lts
+3. pkg i nodejs-lts (arkadaşlar soru yeri gelebilir hepsine "Y" yazın)
 <br>
 4. git clone https://github.com/codetilki/TermuxAoiJsBot
 <br>
@@ -22,7 +22,7 @@ token: "Discord Bot Token",
 prefix: "Discord Bot Prefix",
 ```
 <b>
-CTRL + X
+CTRL + X<br>
 ENTER
 
 7. npm i aoi.js
