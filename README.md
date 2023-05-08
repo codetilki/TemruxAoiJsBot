@@ -3,7 +3,7 @@
 <b>
 1. pkg i git
 <br>
-2. pkg upgrade
+2. pkg upgrade (arkadaşlar soru yeri gelebilir hepsine "Y" yazın)
 <br>
 3. pkg i nodejs-lts
 <br>
@@ -29,4 +29,6 @@ ENTER
 8. npx node index.js
 </b>
 
-ve bu kadar eğer sıkıntı olursa benle iltibata geçin <b>Tilki#0099</b>
+ve bu kadar eğer kodda veya başka sıkıntı olursa benle iltibata geçin <b>Tilki#0099</b>
+
+Not: <b>Eğer telefon bozulma, Cihaz çalışmama vb. durumlardan biz sorumlu değiliz!!!!</b> (Ama şunun güvencesini veriyim ben yaptım ve bir sorun olmadı)
