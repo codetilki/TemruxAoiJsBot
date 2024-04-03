@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.Bot({
-token:  process.env.token, //tokeniniz çalınmasın diye gizleyin...
+token:  "", //tokeninizi yazın.
 prefix: ["t!"], //prefix
 intents: ["GUILDS", "GUILD_MESSAGES"] //intent
 })
